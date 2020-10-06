@@ -10,3 +10,6 @@ domein: sabrinapv.be
 
 30/9    2u      oefening 2
                 installeren FileZilla
+
+1/10    4u      les 2: RESTful api + oefening
+
