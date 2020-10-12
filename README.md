@@ -13,5 +13,9 @@ domein: sabrinapv.be
 
 1/10    4u      les 2: RESTful api + oefening uitleg (nog niet begonnen door problemen met connectie)
 
-6/10    ...     oefening 
+6/10    2u      probleem connectie oplossen + doornemen oefening
+
+8/10    4u      les 3: installaties (problemen met android pad)
+
+9/10    1u      verdere installatie 
 
